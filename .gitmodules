@@ -5,6 +5,10 @@
 [submodule "ambhtmx"]
 	path = ambhtmx
 	url = https://github.com/jrosell/ambhtmx
+[submodule "ambiorix"]
+	path = ambiorix
+	url = https://github.com/devOpifex/ambiorix
+	registered = false
 [submodule "jrrosell"]
 	path = jrrosell
 	url = https://github.com/jrosell/jrrosell
