@@ -11,7 +11,3 @@
 [submodule "rreversegeocoder"]
 	path = rreversegeocoder
 	url = https://github.com/jrosell/rreversegeocoder
-[submodule "uwu"]
-	path = uwu
-	url = https://github.com/josiahparry/uwu
-	registered = false
