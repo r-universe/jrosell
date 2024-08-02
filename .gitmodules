@@ -5,17 +5,9 @@
 [submodule "ambhtmx"]
 	path = ambhtmx
 	url = https://github.com/jrosell/ambhtmx
-[submodule "ambiorix"]
-	path = ambiorix
-	url = https://github.com/devOpifex/ambiorix
-	registered = false
 [submodule "jrrosell"]
 	path = jrrosell
 	url = https://github.com/jrosell/jrrosell
 [submodule "rreversegeocoder"]
 	path = rreversegeocoder
 	url = https://github.com/jrosell/rreversegeocoder
-[submodule "scilis"]
-	path = scilis
-	url = https://github.com/devOpifex/scilis
-	registered = false
