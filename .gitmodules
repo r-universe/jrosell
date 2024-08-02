@@ -1,4 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/jrosell/jrosell.r-universe.dev
 	branch = HEAD
+[submodule "ambhtmx"]
+	path = ambhtmx
+	url = https://github.com/jrosell/ambhtmx
+[submodule "jrrosell"]
+	path = jrrosell
+	url = https://github.com/jrosell/jrrosell
+[submodule "rreversegeocoder"]
+	path = rreversegeocoder
+	url = https://github.com/jrosell/rreversegeocoder
