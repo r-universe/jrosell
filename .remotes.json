@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ambiorix",
+    "url": "https://github.com/devOpifex/ambiorix",
+    "via": ["ambhtmx"],
+    "from": "ambhtmx"
+  },
+  {
+    "package": "scilis",
+    "url": "https://github.com/devOpifex/scilis",
+    "via": ["ambhtmx"],
+    "from": "ambhtmx"
+  }
+]
