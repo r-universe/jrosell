@@ -16,5 +16,11 @@
     "url": "https://github.com/devOpifex/signaculum",
     "via": ["ambhtmx"],
     "from": "ambhtmx"
+  },
+  {
+    "package": "uwu",
+    "url": "https://github.com/JosiahParry/uwu",
+    "via": ["ambhtmx"],
+    "from": "ambhtmx"
   }
 ]

@@ -23,3 +23,7 @@
 	path = signaculum
 	url = https://github.com/devOpifex/signaculum
 	registered = false
+[submodule "uwu"]
+	path = uwu
+	url = https://github.com/JosiahParry/uwu
+	registered = false
