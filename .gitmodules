@@ -15,3 +15,11 @@
 [submodule "rreversegeocoder"]
 	path = rreversegeocoder
 	url = https://github.com/jrosell/rreversegeocoder
+[submodule "scilis"]
+	path = scilis
+	url = https://github.com/devOpifex/scilis
+	registered = false
+[submodule "signaculum"]
+	path = signaculum
+	url = https://github.com/devOpifex/signaculum
+	registered = false

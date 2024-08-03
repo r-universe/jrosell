@@ -4,5 +4,17 @@
     "url": "https://github.com/devOpifex/ambiorix",
     "via": ["ambhtmx"],
     "from": "ambhtmx"
+  },
+  {
+    "package": "scilis",
+    "url": "https://github.com/devOpifex/scilis",
+    "via": ["ambhtmx"],
+    "from": "ambhtmx"
+  },
+  {
+    "package": "signaculum",
+    "url": "https://github.com/devOpifex/signaculum",
+    "via": ["ambhtmx"],
+    "from": "ambhtmx"
   }
 ]
