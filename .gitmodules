@@ -9,6 +9,9 @@
 	path = ambiorix
 	url = https://github.com/devOpifex/ambiorix
 	registered = false
+[submodule "barn"]
+	path = barn
+	url = https://github.com/jrosell/barn
 [submodule "jrrosell"]
 	path = jrrosell
 	url = https://github.com/jrosell/jrrosell
