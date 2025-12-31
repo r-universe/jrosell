@@ -12,6 +12,9 @@
 [submodule "barn"]
 	path = barn
 	url = https://github.com/jrosell/barn
+[submodule "gtakeout"]
+	path = gtakeout
+	url = https://github.com/jrosell/gtakeout
 [submodule "jrrosell"]
 	path = jrrosell
 	url = https://github.com/jrosell/jrrosell
