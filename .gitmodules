@@ -5,10 +5,6 @@
 [submodule "ambhtmx"]
 	path = ambhtmx
 	url = https://github.com/jrosell/ambhtmx
-[submodule "ambiorix"]
-	path = ambiorix
-	url = https://github.com/devOpifex/ambiorix
-	registered = false
 [submodule "barn"]
 	path = barn
 	url = https://github.com/jrosell/barn
@@ -21,15 +17,3 @@
 [submodule "rreversegeocoder"]
 	path = rreversegeocoder
 	url = https://github.com/jrosell/rreversegeocoder
-[submodule "scilis"]
-	path = scilis
-	url = https://github.com/devOpifex/scilis
-	registered = false
-[submodule "signaculum"]
-	path = signaculum
-	url = https://github.com/devOpifex/signaculum
-	registered = false
-[submodule "uwu"]
-	path = uwu
-	url = https://github.com/JosiahParry/uwu
-	registered = false
